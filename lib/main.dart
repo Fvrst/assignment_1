@@ -20,19 +20,19 @@ class HomeScreen extends StatelessWidget {
       'title': 'Admin',
       'subtitle': 'About the admin',
       'image': 'assets/user.png',
-      'description': 'This is the full description of item 1.'
+      'description': 'This is a description of the admin.'
     },
     {
       'title': 'Contact',
       'subtitle': 'Contact us',
       'image': 'assets/contact.png',
-      'description': 'This is the full description of item 2.'
+      'description': 'Our contact address are ....'
     },
     {
       'title': 'Settings',
       'subtitle': 'page settings',
       'image': 'assets/setup.png',
-      'description': 'This is the full description of item 3.'
+      'description': 'This is a description of the settings.'
     },
   ];
 
